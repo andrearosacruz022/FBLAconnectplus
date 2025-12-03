@@ -1,0 +1,44 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "calendar",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "user_ref",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "event_date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "calendar",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "user_ref",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "event_date",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": [
+    {
+      "collectionGroup": "fcm_tokens",
+      "fieldPath": "fcm_token",
+      "indexes": [
+        {
+          "order": "ASCENDING",
+          "queryScope": "COLLECTION_GROUP"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "262515892781",
+    "project_id": "fblaconnect-1b2a4",
+    "storage_bucket": "fblaconnect-1b2a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262515892781:android:71f48c14717c321e19cea4",
+        "android_client_info": {
+          "package_name": "com.mycompany.fblaconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262515892781-v0up4hb7pt2de3n33cmr73qsmor55v0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.fblaconnect",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "262515892781-vluu2dfi6ol7rs9vasvn0d95n4j26ntc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.fblaconnect",
+            "certificate_hash": "92f3f576e476f09294475f48531276d73b76c721"
+          }
+        },
+        {
+          "client_id": "262515892781-8rq7c1hif4s7p0rsh65fgjr3bcl5q0ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqAQjTVnz81bJ2CbcX2ObvBQgtxeZ0hP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262515892781-3l5m43pcth4gsbkrl4db0rg8d7vn7uee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "262515892781-kavdcl8p1mn8inkkfjdnhd3j79bd7h1m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.fblaconnect1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
